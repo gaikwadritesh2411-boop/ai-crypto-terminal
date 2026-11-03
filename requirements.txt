@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+ccxt>=4.4,<5
+pandas>=2.2,<4
+numpy>=1.26,<3
+plotly>=5.24,<8
+# optional: only used if ANTHROPIC_API_KEY is set (rule-based commentary works without it)
+anthropic>=0.40
